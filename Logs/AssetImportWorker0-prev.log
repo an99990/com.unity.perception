@@ -1,0 +1,491 @@
+Unity Editor version:    2020.3.20f1 (41c4e627c95f)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #33~20.04.1-Ubuntu SMP Mon Feb 7 14:25:10 UTC 2022
+Kernel version:          5.13.0-30-generic
+Architecture:            x86_64
+Available memory:        15909 MB
+Using pre-set license
+Pro License: NO
+Desktop is 1920 x 1080 @ 60 Hz
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/huynh/Perception
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+45557
+Successfully changed project path to: /home/huynh/Perception
+/home/huynh/Perception
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.20f1 (41c4e627c95f)
+[Subsystems] Discovering subsystems at path /home/huynh/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/huynh/Perception/Assets
+GLX Extensions: GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_visual_info GLX_EXT_visual_rating GLX_EXT_import_context GLX_SGI_video_sync GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGI_swap_control GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_buffer_age GLX_ARB_create_context GLX_ARB_create_context_profile GLX_NV_float_buffer GLX_ARB_fbconfig_float GLX_EXT_texture_from_pixmap GLX_EXT_framebuffer_sRGB GLX_NV_copy_image GLX_EXT_create_context_es_profile GLX_EXT_create_context_es2_profile GLX_ARB_create_context_no_error GLX_ARB_create_context_robustness GLX_NV_delay_before_swap GLX_EXT_stereo_tree GLX_ARB_context_flush_control GLX_NV_robustness_video_memory_purge GLX_NV_multigpu_context 
+Renderer: NVIDIA GeForce GTX 1060 6GB/PCIe/SSE2
+Vendor:   NVIDIA Corporation
+Version:  4.5.0 NVIDIA 470.103.01
+GLES:     0
+ GL_AMD_multi_draw_indirect GL_AMD_seamless_cubemap_per_texture GL_AMD_vertex_shader_viewport_index GL_AMD_vertex_shader_layer GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_indirect GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragmen
+t_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoki
+ng_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_locations GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_A
+RB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_t
+ranspose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters 
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_multiview_texture_multisample GL_EXT_multiview_timer_query GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_post_depth_coverage GL_EXT_provoking_vertex GL_EXT_raster_multisample GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_sparse_texture2 GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_lod G
+L_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_NV_robustness_video_memory_purge GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_EXT_memory_object GL_EXT_memory_object_fd GL_NV_memory_object_sparse GL_KHR_parallel_shader_compile GL_KHR_no_error GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_EXT_semaphore GL_EXT_semaphore_fd GL_NV_timeline_semaphore GL_KHR_shader_subgroup GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_bindless_multi_draw_indirect GL_NV_bindless_multi_draw_indirect_count GL_NV_bindless_texture GL_NV_blend_equation_advanced GL_NV_
+blend_equation_advanced_coherent GL_NVX_blend_equation_advanced_multi_draw_buffers GL_NV_blend_minmax_factor GL_NV_blend_square GL_NV_clip_space_w_scaling GL_NV_command_list GL_NV_compute_program5 GL_NV_conditional_render GL_NV_conservative_raster GL_NV_conservative_raster_dilate GL_NV_conservative_raster_pre_snap_triangles GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_draw_texture GL_NV_draw_vulkan_image GL_NV_ES1_1_compatibility GL_NV_ES3_1_compatibility GL_NV_explicit_multisample GL_NV_feature_query GL_NV_fence GL_NV_fill_rectangle GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_coverage_to_color GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_fragment_shader_interlock GL_NV_framebuffer_mixed_samples GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_geometry_shader_passthrough GL_NV_gpu_program4 GL_NV_internalformat_sample_query GL_NV_gpu_program4_1 GL_NV_gpu_program5 GL_NV_gpu_program5_mem_extended GL_
+NV_gpu_program_fp64 GL_NV_gpu_shader5 GL_NV_half_float GL_NV_light_max_exponent GL_NV_memory_attachment GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_path_rendering_shared_edge GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_query_resource GL_NV_query_resource_tag GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_sample_locations GL_NV_sample_mask_override_coverage GL_NV_shader_atomic_counters GL_NV_shader_atomic_float GL_NV_shader_atomic_float64 GL_NV_shader_atomic_fp16_vector GL_NV_shader_atomic_int64 GL_NV_shader_buffer_load GL_NV_shader_storage_buffer_object GL_NV_shader_subgroup_partitioned GL_NV_stereo_view_rendering GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_rectangle_compressed GL_NV_texture_shader GL_N
+V_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_uniform_buffer_unified_memory GL_NV_vdpau_interop GL_NV_vdpau_interop2 GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_attrib_integer_64bit GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NV_viewport_array2 GL_NV_viewport_swizzle GL_NVX_conditional_render GL_NV_gpu_multicast GL_NVX_progress_fence GL_NVX_gpu_memory_info GL_NVX_nvenc_interop GL_NV_shader_thread_group GL_NV_shader_thread_shuffle GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_OVR_multiview GL_OVR_multiview2 GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle -290040552
+Initialize mono
+Mono path[0] = '/home/huynh/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
+Mono path[1] = '/home/huynh/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/huynh/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56198
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/huynh/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001030 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 63.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1052ms)
+		BeginReloadAssembly (26ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (442ms)
+			LoadAssemblies (24ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (142ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (216ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (63ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (116ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 60.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.812 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1812ms)
+		BeginReloadAssembly (113ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (1645ms)
+			LoadAssemblies (62ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (325ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (59ms)
+			SetupLoadedEditorAssemblies (1086ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (61ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (882ms)
+				ProcessInitializeOnLoadMethodAttributes (51ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.87 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3266 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.7 MB.
+System memory in use after: 139.7 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 3686.
+Total: 9.109012 ms (FindLiveObjects: 0.401002 ms CreateObjectMapping: 0.162234 ms MarkObjects: 8.296008 ms  DeleteObjects: 0.248125 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/candy_minipralines_lindt.prefab
+  artifactKey: Guid(f8c81fac8af13448ab26bdb5ce582c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/candy_minipralines_lindt.prefab using Guid(f8c81fac8af13448ab26bdb5ce582c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c94b69fe48332bff3ad6829c9af2de28') in 0.174041 seconds 
+  Import took 0.179388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_biscotti_ghiott_01.prefab
+  artifactKey: Guid(9ef2f11fc3a4d451489a43733d1b68fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_biscotti_ghiott_01.prefab using Guid(9ef2f11fc3a4d451489a43733d1b68fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e09ffa579a1505f6236bbb1bc29637') in 0.013410 seconds 
+  Import took 0.018463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab
+  artifactKey: Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab using Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '969bc3fa5d677b4e74b0e7c60444c26c') in 0.012308 seconds 
+  Import took 0.018751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000135 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab
+  artifactKey: Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab using Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e000cc651042837700d98d4b51d569') in 0.011447 seconds 
+  Import took 0.017756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cleaning_snuggle_henkel.prefab
+  artifactKey: Guid(df26f25c7e2e84c0b977b2b3c2efefee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cleaning_snuggle_henkel.prefab using Guid(df26f25c7e2e84c0b977b2b3c2efefee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cc8e0929962d8dbee3fb64ce98d7930') in 0.010676 seconds 
+  Import took 0.017244 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cereal_cheerios_honeynut.prefab
+  artifactKey: Guid(04ab9ebb2655c44ae9e9edebd2c9d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cereal_cheerios_honeynut.prefab using Guid(04ab9ebb2655c44ae9e9edebd2c9d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7461fb78879a58291f2bda677f4349f6') in 0.011955 seconds 
+  Import took 0.018397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_greentea_itoen.prefab
+  artifactKey: Guid(6d2179d3da6ff400c84fe0464ebff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_greentea_itoen.prefab using Guid(6d2179d3da6ff400c84fe0464ebff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'accdf735f9f77619c53e930b91711d50') in 0.010624 seconds 
+  Import took 0.017042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_granolabar_naturevalley.prefab
+  artifactKey: Guid(7ec41c4e5b2be4230b44e141f423c881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_granolabar_naturevalley.prefab using Guid(7ec41c4e5b2be4230b44e141f423c881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c061e9f0e5ae4e6d1a8f50780c3c1127') in 0.012438 seconds 
+  Import took 0.019043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab
+  artifactKey: Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab using Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50ac6cf0184ffbe0585f90f0cfd06e6b') in 0.008718 seconds 
+  Import took 0.013034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab
+  artifactKey: Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab using Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673cf2cb845332a65ea1b5b7c4903e40') in 0.011868 seconds 
+  Import took 0.019683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.308947 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/candy_minipralines_lindt.prefab
+  artifactKey: Guid(f8c81fac8af13448ab26bdb5ce582c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/candy_minipralines_lindt.prefab using Guid(f8c81fac8af13448ab26bdb5ce582c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3aa3389137813990cdf811987822f9c') in 0.010478 seconds 
+  Import took 0.017248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_biscotti_ghiott_01.prefab
+  artifactKey: Guid(9ef2f11fc3a4d451489a43733d1b68fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_biscotti_ghiott_01.prefab using Guid(9ef2f11fc3a4d451489a43733d1b68fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92dce273ebc76cc9cc8252ee6389f618') in 0.012840 seconds 
+  Import took 0.019299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab
+  artifactKey: Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab using Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62796af8b38ed9f76b77a21bf1cdc915') in 0.012234 seconds 
+  Import took 0.019383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab
+  artifactKey: Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab using Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fad449013003490bb1c462c3c247ae7f') in 0.010641 seconds 
+  Import took 0.015938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cleaning_snuggle_henkel.prefab
+  artifactKey: Guid(df26f25c7e2e84c0b977b2b3c2efefee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cleaning_snuggle_henkel.prefab using Guid(df26f25c7e2e84c0b977b2b3c2efefee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7ad434200b6df57f754fcb0b0c3cdf') in 0.008807 seconds 
+  Import took 0.013530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cereal_cheerios_honeynut.prefab
+  artifactKey: Guid(04ab9ebb2655c44ae9e9edebd2c9d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cereal_cheerios_honeynut.prefab using Guid(04ab9ebb2655c44ae9e9edebd2c9d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6fc17619a2642e84618b988a6b67a36') in 0.009639 seconds 
+  Import took 0.014100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_greentea_itoen.prefab
+  artifactKey: Guid(6d2179d3da6ff400c84fe0464ebff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_greentea_itoen.prefab using Guid(6d2179d3da6ff400c84fe0464ebff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86928468752d9c25311ae7873ee0014b') in 0.009062 seconds 
+  Import took 0.013693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_granolabar_naturevalley.prefab
+  artifactKey: Guid(7ec41c4e5b2be4230b44e141f423c881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_granolabar_naturevalley.prefab using Guid(7ec41c4e5b2be4230b44e141f423c881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81e7f825a20eeb82ad600095996e0680') in 0.009484 seconds 
+  Import took 0.013960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab
+  artifactKey: Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab using Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4ce16d4b61d21c231cad1c487badb40') in 0.009350 seconds 
+  Import took 0.013843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab
+  artifactKey: Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab using Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329e77cfbee35a05eff9acabc9cd0d01') in 0.011276 seconds 
+  Import took 0.016617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.988695 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cereal_cheerios_honeynut.prefab
+  artifactKey: Guid(04ab9ebb2655c44ae9e9edebd2c9d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cereal_cheerios_honeynut.prefab using Guid(04ab9ebb2655c44ae9e9edebd2c9d32c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d227ede61e5c23a80905d27b878820') in 0.010026 seconds 
+  Import took 0.015036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab
+  artifactKey: Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab using Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fb11f2d1bc75cd7669af2b7d48ca787') in 0.009989 seconds 
+  Import took 0.014031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab
+  artifactKey: Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab using Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf820a016f57fa72133eea238555309c') in 0.008224 seconds 
+  Import took 0.012291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_greentea_itoen.prefab
+  artifactKey: Guid(6d2179d3da6ff400c84fe0464ebff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_greentea_itoen.prefab using Guid(6d2179d3da6ff400c84fe0464ebff935) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf8482e96a3f1032304b86bf8ce675d') in 0.008019 seconds 
+  Import took 0.011990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab
+  artifactKey: Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab using Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53cf73a511f6f1352c75f8f964e37e9e') in 0.007535 seconds 
+  Import took 0.011549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab
+  artifactKey: Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab using Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab00dc02f5770b542e68fa7b106eb05c') in 0.008609 seconds 
+  Import took 0.012600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.559324 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/candy_minipralines_lindt.prefab
+  artifactKey: Guid(f8c81fac8af13448ab26bdb5ce582c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/candy_minipralines_lindt.prefab using Guid(f8c81fac8af13448ab26bdb5ce582c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db1c914c9e194f37eea19af0ed054600') in 0.010816 seconds 
+  Import took 0.018590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_biscotti_ghiott_01.prefab
+  artifactKey: Guid(9ef2f11fc3a4d451489a43733d1b68fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/snack_biscotti_ghiott_01.prefab using Guid(9ef2f11fc3a4d451489a43733d1b68fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaacb1c184db82829b7b6e1e87567c71') in 0.011330 seconds 
+  Import took 0.018073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab
+  artifactKey: Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/lotion_essentially_nivea.prefab using Guid(1235a6a7e60bd4fb49f7fe43925b064d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f44a90b00d6c5063ee4b3d9f86044b0') in 0.009248 seconds 
+  Import took 0.014716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab
+  artifactKey: Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/pasta_lasagne_barilla.prefab using Guid(5a29edd6a97d9479da063ac4c4eb8611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25721ab3165f05a753e6ed84b4f3131b') in 0.008850 seconds 
+  Import took 0.013282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cleaning_snuggle_henkel.prefab
+  artifactKey: Guid(df26f25c7e2e84c0b977b2b3c2efefee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/cleaning_snuggle_henkel.prefab using Guid(df26f25c7e2e84c0b977b2b3c2efefee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd151f626307f53ea1e6381aee1e7d579') in 0.008224 seconds 
+  Import took 0.012416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab
+  artifactKey: Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/craft_yarn_caron_01.prefab using Guid(12285089570ca4f6c8bc7b2358caf57f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61db5fbd1cb207e9fa4696d1aaabf66e') in 0.008729 seconds 
+  Import took 0.013046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab
+  artifactKey: Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Foreground Objects/Phase 1/Prefabs/drink_whippingcream_lucerne.prefab using Guid(514fd8bc80a18436f8b85ea96011911c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f4c14a7a2abd9658250c78a75ca127') in 0.009155 seconds 
+  Import took 0.013179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.579433 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_01.prefab
+  artifactKey: Guid(7dd7f1e1f85b04c908d48829d22f4f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_01.prefab using Guid(7dd7f1e1f85b04c908d48829d22f4f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1d55cc930a9edbd71fadd7927449c2') in 0.008956 seconds 
+  Import took 0.014538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_01.prefab
+  artifactKey: Guid(b65643442652f4e5cac1ba8a138fe11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_01.prefab using Guid(b65643442652f4e5cac1ba8a138fe11b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc359562babc247d42d6ba24ba7f2d2') in 0.006729 seconds 
+  Import took 0.010632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_01.prefab
+  artifactKey: Guid(1279cedc9a7594696816ed4895a5a0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_01.prefab using Guid(1279cedc9a7594696816ed4895a5a0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec890448639d8529b1a8f541559b63e') in 0.008503 seconds 
+  Import took 0.012383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_02.prefab
+  artifactKey: Guid(95c2ed58ec23643a698c890a152f30c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_hardedge_02.prefab using Guid(95c2ed58ec23643a698c890a152f30c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '834656764b29762b45c79c88c022db69') in 0.006192 seconds 
+  Import took 0.010121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_01.prefab
+  artifactKey: Guid(0f54a45900eb3485eae0701715746760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_01.prefab using Guid(0f54a45900eb3485eae0701715746760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e28ea40b12f322739d69b856daa680') in 0.008921 seconds 
+  Import took 0.012803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_01.prefab
+  artifactKey: Guid(a75f34e297d0d41939b1f730f6556b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_01.prefab using Guid(a75f34e297d0d41939b1f730f6556b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39eee38121bc57228092bd6a6fd0d40f') in 0.007804 seconds 
+  Import took 0.011860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_02.prefab
+  artifactKey: Guid(2bda33803207144f1b850250904cd924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_roundedge_02.prefab using Guid(2bda33803207144f1b850250904cd924) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1429dbcf1c28f70f762d683af73a70db') in 0.008683 seconds 
+  Import took 0.013913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_02.prefab
+  artifactKey: Guid(9d09d824be2fe4617b33bb31e9eeca96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cube_roundedge_02.prefab using Guid(9d09d824be2fe4617b33bb31e9eeca96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5715c87ad5f00ac43430f1f06c673b0e') in 0.011583 seconds 
+  Import took 0.016855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_02.prefab
+  artifactKey: Guid(a3a4f0ca1fc1e47608346e3ebad64473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Cylinder_hardedge_02.prefab using Guid(a3a4f0ca1fc1e47608346e3ebad64473) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44458b1131e596aec6a889a2c29e5b20') in 0.007494 seconds 
+  Import took 0.011771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_02.prefab
+  artifactKey: Guid(02d0dd79e02e54b0497c611f55f79aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Perception/0.8.0-preview.4/Tutorial Files/Background Objects/Prefabs/Sphere_quad_02.prefab using Guid(02d0dd79e02e54b0497c611f55f79aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44650917f537d67da2acda5fbb2f6733') in 0.008787 seconds 
+  Import took 0.014555 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
