@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "com.unity.burst": "1.5.6",
+    "com.unity.collections": "1.1.0",
+    "com.unity.nuget.newtonsoft-json": "1.1.2",
+    "com.unity.render-pipelines.core": "7.1.6"
+  },
+  "description": "Tools for generating large-scale data sets for perception-based machine learning training and validation",
+  "displayName": "Perception",
+  "name": "com.unity.perception",
+  "unity": "2020.3",
+  "version": "0.10.0-preview.1",
+  "samples": [
+    {
+      "displayName": "Tutorial Files",
+      "description": "These files accompany the Perception Tutorial, found at https://github.com/Unity-Technologies/com.unity.perception",
+      "path": "Samples~/Tutorial Files"
+    },
+    {
+      "displayName": "Human Pose Labeling and Randomization",
+      "description": "These files accompany the Human Pose Labeling and Randomization Tutorial, found at https://github.com/Unity-Technologies/com.unity.perception",
+      "path": "Samples~/Human Pose Labeling and Randomization"
+    }
+  ],
+  "upm": {
+    "changelog": "### Upgrade Notes,### Known Issues,### Added,### Changed,### Deprecated,### Removed,### Fixed"
+  },
+  "upmCi": {
+    "footprint": "4e27bcb72b7b712d9b04028f17507a7ef29ec215"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.perception.git",
+    "type": "git",
+    "revision": "a6180d0ecf7f5dbcb28191ff89290d44d5b6667a"
+  }
+}
